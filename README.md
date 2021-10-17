@@ -1,1 +1,1 @@
-# Realisation of socket in the client server interaction
+# Realization of socket in the client server interaction
