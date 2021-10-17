@@ -1,1 +1,1 @@
-Реализации работы сокетов в клиент серверном взаимодействии
+# Realisation of socket in the client server interaction
