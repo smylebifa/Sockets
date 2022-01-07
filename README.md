@@ -1,1 +1,1 @@
-# Realization of socket in the client server interaction
+# Реализация работы сокетов в многопоточном режиме
